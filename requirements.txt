@@ -1,0 +1,10 @@
+typer
+pydantic
+dateparser
+python-dateutil
+pytesseract
+pillow
+pdf2image
+pypdf
+PyMuPDF
+pytest

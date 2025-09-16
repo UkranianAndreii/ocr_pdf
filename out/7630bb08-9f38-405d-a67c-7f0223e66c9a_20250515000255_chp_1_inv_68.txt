@@ -1,0 +1,81 @@
+KeHE Distributors
+Invoice Adjustment Form Cover Page
+DOCUMENT INFORMATION
+Invoice#:
+INV5404IA
+DC#:
+19
+Special Payee:
+65207101
+Type:
+12
+JOB INFORMATION
+Z-Batch#:
+00248407
+PO#:
+VENDOR#:
+FILE NAME:
+//InvAdj/ByBatch/InvAdjBch1900248407.pdf
+INV5404IA-19-65207101-12                
+
+
+--- PAGE SPLIT ---
+
+INVOICE ADJUSTMENT
+Payee:
+65207101
+EAT THE CHANGE INC (Hold)
+Invoice Number:
+INV5404IA
+PO Number:
+3023383
+Vendor Name:
+EAT THE CHANGE INC
+Invoice Date:
+05/11/2025
+Net Due Date:
+05/27/2025
+Shipped To:
+19 KEHE DIST - DALLAS DFW (19)
+Vendor Invoice Total:
+     18,283.74
+Adjustments:
+Product Variances
+UPC---------
+KeHE ITM
+DESCRIPTION-------------------
+INVOICE QTY
+RECEIVE QTY
+QTY VARIANCE
+ PO PRICE
+195372019214
+02419939
+TEA HRB ENJOY MINT ORG
+       36.00        24.00
+       12.00-    10.920
+       131.04-
+195372062609
+02419944
+TEA HRB ORANGE MANGO ORG
+       32.00        24.00
+        8.00-    15.000
+       120.00-
+195372119600
+02419908
+TEA GOLDN OOLONG UNS ORG
+       18.00        16.00
+        2.00-    10.920
+        21.84-
+-------------
+       272.88-
+CONNECT BI ALLOWANCE
+  2.00%
+                5.46
+-------------
+Net Deduction:
+              267.42-
+=============
+Net Payable:
+           18,016.32
+PAGE:
+   1
